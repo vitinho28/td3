@@ -1,0 +1,6 @@
+![Imagem do WhatsApp de 2025-02-28 à(s) 16 29 00_5b2dc92b](https://github.com/user-attachments/assets/875e6a6a-62e1-42b2-a619-875ee6601ecd)
+![Imagem do WhatsApp de 2025-02-28 à(s) 16 29 00_18c723b8](https://github.com/user-attachments/assets/26a09f0c-99ca-4f0a-ae9c-184e77a8a638)
+![Imagem do WhatsApp de 2025-02-28 à(s) 16 29 00_9a36b562](https://github.com/user-attachments/assets/ac63ab60-ac22-408f-be42-c02b9c7c56d5)
+![Imagem do WhatsApp de 2025-02-28 à(s) 16 29 00_a15b59fe](https://github.com/user-attachments/assets/33fb0a7f-9e38-4381-89dc-cbcc7f8f563b)
+![Imagem do WhatsApp de 2025-02-28 à(s) 16 29 00_f671492c](https://github.com/user-attachments/assets/c11ec1ad-d937-479b-b2d2-0832f24a71b8)
+![Imagem do WhatsApp de 2025-02-28 à(s) 16 29 00_add10ebb](https://github.com/user-attachments/assets/2c272ed5-04f5-443d-8fa1-cee533e31f66)

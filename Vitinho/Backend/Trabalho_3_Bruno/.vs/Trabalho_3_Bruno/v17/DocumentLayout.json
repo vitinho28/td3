@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\trabalho_3_bruno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\trabalho_3_bruno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\trabalho_3_bruno.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\trabalho_3_bruno.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\trabalho_3_bruno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\trabalho_3_bruno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|c:\\users\\gabri\\onedrive\\\u00E1rea de trabalho\\vitinho\\backend\\trabalho_3_bruno\\trabalho_3_bruno\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BF91C0-B721-4725-B681-6AA35733E3D3}|Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj|solutionrelative:trabalho_3_bruno\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T19:25:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trabalho_3_Bruno",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T19:25:15.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trabalho_3_Bruno.http",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Trabalho_3_Bruno.http",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Trabalho_3_Bruno.http",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Trabalho_3_Bruno.http",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Trabalho_3_Bruno.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-28T19:24:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\appsettings.json",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\appsettings.json",
+              "RelativeToolTip": "Trabalho_3_Bruno\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T19:24:27.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Dockerfile",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Dockerfile",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Dockerfile",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T19:04:52.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trabalho_3_Bruno.csproj",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Trabalho_3_Bruno.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T04:04:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Trabalho_3_Bruno\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:37:09.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:34:44.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Program.cs",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Program.cs",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T20:30:17.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:41:49.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Trabalho_3_Bruno\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\\u00C1rea de Trabalho\\Vitinho\\Backend\\Trabalho_3_Bruno\\Trabalho_3_Bruno\\Entities\\User.cs",
+              "RelativeToolTip": "Trabalho_3_Bruno\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:39:24.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
